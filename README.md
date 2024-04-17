@@ -15,7 +15,7 @@ This application:
 
 > Academic sample project, using blueprint to implement AI behaviour tree, AI controller, Blackboard, decorator, task and service with blueprint to develop a basic AI sample projects for teaching Unreal Engine. 
 
-Having 4 unique AI characters using basic method of AI implementations. Some have customizable path in Editor.
+Having 4 unique AI characters which are using a basic method of AI implementation. Some have customizable path in Editor.
 
 
 
