@@ -10,9 +10,9 @@ Home: www.kataxwork.com<br>
 
 This application:
 
-> Basic AI implementations with Blueprint
-> 4 unique AI characters
-> customizable path in Editor
+> Basic AI implementations with Blueprint.<br> 
+> 4 unique AI characters.<br> 
+> customizable path in Editor.<br> 
 
 
 Using:
